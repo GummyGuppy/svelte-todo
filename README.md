@@ -1,3 +1,11 @@
+Project related goals:
+
+## hover over todo, upon select - display module
+
+## obvious css fixes and beautify it all
+
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
