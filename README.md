@@ -1,4 +1,4 @@
-## :butterfly: Project related goals: :tropical_fish:
+## :tropical_fish: Project related goals: :tropical_fish:
 
  -hover over todo, upon select - display module
 
